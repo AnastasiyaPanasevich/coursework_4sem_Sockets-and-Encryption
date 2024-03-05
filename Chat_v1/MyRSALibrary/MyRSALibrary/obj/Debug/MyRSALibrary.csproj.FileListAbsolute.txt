@@ -1,0 +1,6 @@
+C:\Users\matil\OneDrive\Документы\4 sem 2023\belova\kursach\Chat_v1\MyRSALibrary\MyRSALibrary\bin\Debug\MyRSALibrary.dll
+C:\Users\matil\OneDrive\Документы\4 sem 2023\belova\kursach\Chat_v1\MyRSALibrary\MyRSALibrary\bin\Debug\MyRSALibrary.pdb
+C:\Users\matil\OneDrive\Документы\4 sem 2023\belova\kursach\Chat_v1\MyRSALibrary\MyRSALibrary\obj\Debug\MyRSALibrary.csproj.AssemblyReference.cache
+C:\Users\matil\OneDrive\Документы\4 sem 2023\belova\kursach\Chat_v1\MyRSALibrary\MyRSALibrary\obj\Debug\MyRSALibrary.csproj.CoreCompileInputs.cache
+C:\Users\matil\OneDrive\Документы\4 sem 2023\belova\kursach\Chat_v1\MyRSALibrary\MyRSALibrary\obj\Debug\MyRSALibrary.dll
+C:\Users\matil\OneDrive\Документы\4 sem 2023\belova\kursach\Chat_v1\MyRSALibrary\MyRSALibrary\obj\Debug\MyRSALibrary.pdb

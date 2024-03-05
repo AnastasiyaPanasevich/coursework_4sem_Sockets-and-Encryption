@@ -1,0 +1,26 @@
+C:\Users\matil\OneDrive\Документы\4 sem 2023\belova\kursach\Chat_v1\Chat_Server\Chat_Server\bin\Debug\net6.0\Chat_Server.exe
+C:\Users\matil\OneDrive\Документы\4 sem 2023\belova\kursach\Chat_v1\Chat_Server\Chat_Server\bin\Debug\net6.0\Chat_Server.deps.json
+C:\Users\matil\OneDrive\Документы\4 sem 2023\belova\kursach\Chat_v1\Chat_Server\Chat_Server\bin\Debug\net6.0\Chat_Server.runtimeconfig.json
+C:\Users\matil\OneDrive\Документы\4 sem 2023\belova\kursach\Chat_v1\Chat_Server\Chat_Server\bin\Debug\net6.0\Chat_Server.dll
+C:\Users\matil\OneDrive\Документы\4 sem 2023\belova\kursach\Chat_v1\Chat_Server\Chat_Server\bin\Debug\net6.0\Chat_Server.pdb
+C:\Users\matil\OneDrive\Документы\4 sem 2023\belova\kursach\Chat_v1\Chat_Server\Chat_Server\obj\Debug\net6.0\Chat_Server.csproj.AssemblyReference.cache
+C:\Users\matil\OneDrive\Документы\4 sem 2023\belova\kursach\Chat_v1\Chat_Server\Chat_Server\obj\Debug\net6.0\Chat_Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matil\OneDrive\Документы\4 sem 2023\belova\kursach\Chat_v1\Chat_Server\Chat_Server\obj\Debug\net6.0\Chat_Server.AssemblyInfoInputs.cache
+C:\Users\matil\OneDrive\Документы\4 sem 2023\belova\kursach\Chat_v1\Chat_Server\Chat_Server\obj\Debug\net6.0\Chat_Server.AssemblyInfo.cs
+C:\Users\matil\OneDrive\Документы\4 sem 2023\belova\kursach\Chat_v1\Chat_Server\Chat_Server\obj\Debug\net6.0\Chat_Server.csproj.CoreCompileInputs.cache
+C:\Users\matil\OneDrive\Документы\4 sem 2023\belova\kursach\Chat_v1\Chat_Server\Chat_Server\obj\Debug\net6.0\Chat_Server.dll
+C:\Users\matil\OneDrive\Документы\4 sem 2023\belova\kursach\Chat_v1\Chat_Server\Chat_Server\obj\Debug\net6.0\refint\Chat_Server.dll
+C:\Users\matil\OneDrive\Документы\4 sem 2023\belova\kursach\Chat_v1\Chat_Server\Chat_Server\obj\Debug\net6.0\Chat_Server.pdb
+C:\Users\matil\OneDrive\Документы\4 sem 2023\belova\kursach\Chat_v1\Chat_Server\Chat_Server\obj\Debug\net6.0\Chat_Server.genruntimeconfig.cache
+C:\Users\matil\OneDrive\Документы\4 sem 2023\belova\kursach\Chat_v1\Chat_Server\Chat_Server\obj\Debug\net6.0\ref\Chat_Server.dll
+C:\Users\matil\OneDrive\Документы\4 sem 2023\belova\kursach\Chat_v1\Chat_Server\Chat_Server\obj\Debug\net6.0\Chat_Server.csproj.CopyComplete
+C:\Users\matil\OneDrive\Документы\4 sem 2023\belova\kursach\Chat_v1\Chat_Server\Chat_Server\bin\Debug\net6.0\MyRSALibrary_v1.dll
+C:\Users\matil\OneDrive\Документы\4 sem 2023\belova\kursach\Chat_v1\Chat_Server\Chat_Server\bin\Debug\net6.0\MyRSALibrary_v1.pdb
+C:\Users\matil\OneDrive\Документы\aaaaaaa\Chat_v1\Chat_Server\Chat_Server\obj\Debug\net6.0\Chat_Server.csproj.AssemblyReference.cache
+C:\Users\matil\OneDrive\Документы\aaaaaaa\Chat_v1\Chat_Server\Chat_Server\obj\Debug\net6.0\Chat_Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matil\OneDrive\Документы\aaaaaaa\Chat_v1\Chat_Server\Chat_Server\obj\Debug\net6.0\Chat_Server.AssemblyInfoInputs.cache
+C:\Users\matil\OneDrive\Документы\aaaaaaa\Chat_v1\Chat_Server\Chat_Server\obj\Debug\net6.0\Chat_Server.AssemblyInfo.cs
+C:\Users\matil\OneDrive\Документы\aaaaaaa\Chat_v1\Chat_Server\Chat_Server\obj\Debug\net6.0\Chat_Server.csproj.CoreCompileInputs.cache
+C:\Users\matil\OneDrive\Документы\aaaaaaa\Chat_v1\Chat_Server\Chat_Server\obj\Debug\net6.0\Chat_Server.dll
+C:\Users\matil\OneDrive\Документы\aaaaaaa\Chat_v1\Chat_Server\Chat_Server\obj\Debug\net6.0\refint\Chat_Server.dll
+C:\Users\matil\OneDrive\Документы\aaaaaaa\Chat_v1\Chat_Server\Chat_Server\obj\Debug\net6.0\Chat_Server.pdb
